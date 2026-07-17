@@ -188,7 +188,7 @@ git push origin feature-name
 
 ## 👩‍💻 Author
 
-**Pragati Patil**
+**Prapti Patil**
 
 GitHub: https://github.com/your-github-username
 
